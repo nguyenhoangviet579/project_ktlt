@@ -1,0 +1,45 @@
+﻿  main.cpp
+c:\users\hp\source\repos\full_project\full_project\header.h(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\header.h(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\header.h(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\header.h(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\header.h(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(235): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(268): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(281): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(390): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(325): warning C4101: 'temp': unreferenced local variable
+c:\users\hp\source\repos\full_project\full_project\class.h(434): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(442): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(448): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(458): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(467): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(533): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(610): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(686): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(695): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(702): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(714): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(726): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(728): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(755): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(828): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(843): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(888): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(912): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(966): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(997): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\class.h(1017): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\login.h(14): warning C4101: 'temp': unreferenced local variable
+c:\users\hp\source\repos\full_project\full_project\menu.h(307): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\hp\source\repos\full_project\full_project\menu.h(309): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\hp\source\repos\full_project\full_project\menu.h(368): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\menu.h(479): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\menu.h(698): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\menu.h(700): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\menu.h(1253): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\full_project\full_project\menu.h(1255): warning C4018: '<': signed/unsigned mismatch
+  Full_Project.vcxproj -> C:\Users\HP\source\repos\Full_Project\Debug\Full_Project.exe
